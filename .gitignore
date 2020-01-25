@@ -5,3 +5,5 @@ resource_cache
 *.prof
 *.png
 *.pkl
+*.csv
+*.pkl.gz
